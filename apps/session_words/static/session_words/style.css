@@ -1,0 +1,20 @@
+#wrapper{
+    height: 1000px;
+    width: 1000px;
+    background-color: white;
+    text-align: center;
+}
+
+#left{
+    height: 1000px;
+    vertical-align: top;
+    background-color: white;
+    width: 425px;
+    display: inline-block;
+}
+#right{
+    height: 1000px;
+    width: 425px;
+    background-color: white;
+    display: inline-block;
+}
